@@ -52,7 +52,7 @@
 }
 .shift{
   width:11vw;
-  border-radius:10%;
+  border-radius:7%;
   
 }
 .fifth.row{
@@ -63,19 +63,19 @@
 }
 .bksp{
   width:10vw;
-  border-radius:1vw;
+  border-radius:7%;
   font-size:4vh;
 }
 .tab{
   background-color:#333;
   width:11vw;
-  border-radius:1vw;
+  border-radius:7%;
   font-size:4vh;
 }
 
 .enter{
   width:11vw;
-  border-radius:1vw;
+  border-radius:7%;
   font-size:4vh;
 }
 .special{
@@ -86,21 +86,21 @@
 
 .space{
   width:35vw;
-  border-radius:1vw;
+  border-radius:7%;
 }
 .accept{
   width:11vw;
-  border-radius:1vw;
+  border-radius:7%;
   font-size:4vh;
 }
 .cancel{
   width:11vw;
-  border-radius:1vw;
+  border-radius:7%;
   font-size:4vh;
 }
 
 .key:hover{
-  box-shadow:0px 0px 5vw #FF0000;
+  box-shadow:0px 0px 2vw #FF0000;
 }
 .key:active{
   color:#111;
