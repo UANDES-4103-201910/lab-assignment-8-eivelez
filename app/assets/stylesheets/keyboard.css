@@ -23,6 +23,7 @@
   cursor: pointer;
   transition: box-shadow 0s;
   font-size:4vh;
+  user-select: none;
 }
 .row
 {
