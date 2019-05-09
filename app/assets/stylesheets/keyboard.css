@@ -110,3 +110,32 @@
   color:#eee;
   background-color:#FF0000;
 }
+.monitor
+{
+  height:45vh;
+  width:80vw;
+  position:absolute;
+  background-color:#111;
+  margin-left:10vw;
+  margin-top:5vh;
+  border-radius:1vw;
+}
+.console
+{
+  height:35vh;
+  width:75vw;
+  background-color:white;
+  margin-left:2.5vw;
+  margin-top:2.5vh;
+  
+}
+.logo
+{
+  content:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/692f2574-4c51-45e7-9e27-461571619240/d2aedut-f186440b-a183-4b64-bfb6-6fd84358fe31.png/v1/fill/w_799,h_1000,strp/alienware_logo_1_by_panchari_d2aedut-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyNyIsInBhdGgiOiJcL2ZcLzY5MmYyNTc0LTRjNTEtNDVlNy05ZTI3LTQ2MTU3MTYxOTI0MFwvZDJhZWR1dC1mMTg2NDQwYi1hMTgzLTRiNjQtYmZiNi02ZmQ4NDM1OGZlMzEucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JYwlXcZijRhewBaUR_Qk0q1ueSE_pSMv5Tvl_yRb47Q);
+  position:absolute;
+  width:4vh;
+  height:5vh;
+  margin-left:47vw;
+  margin-top:44vh;
+  z-index:9999;
+}
