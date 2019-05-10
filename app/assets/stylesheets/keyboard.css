@@ -116,7 +116,7 @@
   height:45vh;
   width:80vw;
   position:absolute;
-  background-color:#111;
+  background-color:#393a3d;
   margin-left:10vw;
   margin-top:5vh;
   border-radius:1vw;
@@ -125,9 +125,10 @@
 {
   height:35vh;
   width:75vw;
-  background-color:white;
+  background-color:black;
   margin-left:2.5vw;
   margin-top:2.5vh;
+  color:#00F900;
   
 }
 .logo
@@ -136,11 +137,22 @@
   position:absolute;
   width:4vh;
   height:5vh;
-  margin-left:47vw;
+  margin-left:49.5vw;
   margin-top:44vh;
   z-index:9999;
 }
 .output
 {
   margin-left:1vw;
+}
+.toogle
+{
+  width:10vw;
+  height:5vh;
+  background-color:red;
+  position:absolute;
+  text-align:center;
+  font-size:3vh;
+  margin-left:45vw;
+  margin-top:55vh;
 }
